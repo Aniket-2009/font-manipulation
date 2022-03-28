@@ -1,0 +1,25 @@
+body{
+   background-image: linear-gradient(to right, aqua , lime,yellow);
+}
+.note{
+    font-size:18px;
+    color:black;
+}
+
+.heading{
+    font-size:50px;
+    width:100%;
+    margin:0px;
+    box-shadow:5px 5px 5px green;
+}
+
+
+.copy_right_footer{
+    position:fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+}
